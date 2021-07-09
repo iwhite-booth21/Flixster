@@ -17,8 +17,7 @@
 <img src="Flixster_Gif.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-
+Using any API beyond 21(Jellybean) is absolutely necessary for using the api in the app. Additionally, Pixel model phone emulators would not work with the app.
 ### Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
