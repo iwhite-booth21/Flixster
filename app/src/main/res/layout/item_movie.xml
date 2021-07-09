@@ -33,7 +33,7 @@
         android:layout_below="@+id/tvTitle"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="5dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="5dp"
         android:layout_marginEnd="4dp"
         android:layout_toEndOf="@+id/ivPoster"
         android:text="@string/sample_movie_overview_this_information_can_be_managed_and_adjusted_based_on_the_the_current_movies" />
