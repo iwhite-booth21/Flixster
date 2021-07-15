@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="Flixster2_Gif.gif" width=250><br>
 
 ### Notes
 There were alot of issues with connectivity using certain wifi connections. 
